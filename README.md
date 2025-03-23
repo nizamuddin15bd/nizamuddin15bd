@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,Nextjs & MongoDB (Aggregation)**
 
-- 📫 How to reach me **nurulislamrimon@gmail.com**
+- 📫 How to reach me **Nizamuddin15bd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
