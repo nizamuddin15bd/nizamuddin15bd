@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Mena Coupon Mobile App, Elit Commerce, BdCommarce, ExperSquad.net**
 
-- 💬 Ask me about **React,Nextjs & MongoDB (Aggregation)**
+- 💬 Ask me about **React, Nextjs & React Native, React Native Expo (Aggregation)**
 
 - 📫 How to reach me **Nizamuddin15bd@gmail.com**
 
