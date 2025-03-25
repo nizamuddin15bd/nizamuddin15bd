@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nizamuddin15bd&show_icons=true&locale=en&layout=compact" alt="nurulislamrimon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizamuddin15bd&" alt="nizamuddin15bd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizamuddin15bd" alt="nizamuddin15bd" /></p>
