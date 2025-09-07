@@ -6,9 +6,10 @@
 
 - 🔭 I’m currently working on **Delivery Boy Mobile App**
 
-- 🌱 I’m currently learning **Prisma, PostgreSQL, SQlite**
+- 🌱 I’m currently learning **Prisma, PostgreSQL, SQlite, Python, FastApi**
+- 🌱 My npm, <a href="[https://twitter.com/nurulislamrimon](https://www.npmjs.com/package/react-native-modern-elements)" target="blank">Npm</a>
 
-- 👯 I’m looking to collaborate on **Mena Coupon Mobile App, Elit Commerce, BdCommarce, ExperSquad.net, bdmerchant Mobile apps**
+- 👯 I’m looking to collaborate on **Mena Coupon Mobile App, Elit Commerce, BdCommarce, ExperSquad.net, bdmerchant, Delivery-boy, TeleStore, Mobile apps**
 
 - 💬 Ask me about **React, Nextjs & React Native, React Native Expo (Aggregation)**
 
